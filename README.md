@@ -1,6 +1,6 @@
 
 # 💫 Hi,
-🔭 I’m Izaz and I am a Full stack developer (Frontend Focused), working with ReactJs and NodeJs.
+🔭 I’m Izaz and I am a Full stack developer (Frontend Focused), working with ReactJs, TypeScript and NodeJs.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/izaz-ahmed-845817210/) 
